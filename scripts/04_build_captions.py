@@ -28,8 +28,8 @@ LINE_GAP = 12
 BLOCK_CENTER_Y = 940                                # 3-line block is vertically centered here
 
 # ============================== CUSTOMIZE ==============================
-TITLE_LINE1 = "취임 후 최저 또 갈아치운 지지율"   # white line, pos(540,110)
-TITLE_LINE2 = "33.8%까지 떨어짐"                  # yellow line, pos(540,198)
+TITLE_LINE1 = "지명 14일 만에 스스로 물러난 후보자"   # white line, pos(540,110)
+TITLE_LINE2 = "벌써 네 번째 낙마"                  # yellow line, pos(540,198)
 
 # Exactly ONE glowing line per segment: seg_id -> keyword to glow. Whichever of the
 # segment's (at most 3) chunk-lines actually contains this word gets the glow -- no
@@ -37,21 +37,21 @@ TITLE_LINE2 = "33.8%까지 떨어짐"                  # yellow line, pos(540,19
 # important word per segment (number / emotion / twist word) -- do NOT glow more than
 # one line per segment, that was explicitly rejected in review.
 KEYWORDS = {
-    "card": "33.8%",
-    "s01":  "리얼미터",
-    "s03":  "최저치인데",
-    "s04":  "63.3%로",
-    "ad1":  "신기록",
-    "s05":  "65.5%까지",
-    "s07":  "반 토막",
-    "s08":  "10.2포인트",
-    "s09":  "9.1포인트",
-    "ad2":  "바닥이",
-    "s10":  "호르무즈",
-    "s11":  "부동산",
-    "s12":  "42.1%",
-    "s13":  "6포인트",
-    "s14":  "20%대도",
+    "card": "14일",
+    "s01":  "용혜인",
+    "s02":  "네 번째",
+    "s03":  "청문회라도",
+    "ad1":  "문턱도",
+    "s04":  "겸직이랑",
+    "s05":  "사당화",
+    "s06":  "파리에서",
+    "s07":  "엿새",
+    "s08":  "인사위원회가",
+    "ad2":  "아무도",
+    "s10":  "인사 라인",
+    "s11":  "줄줄이라",
+    "s12":  "갭투자",
+    "s14":  "못 한",
 }
 # =========================================================================
 

@@ -1,0 +1,62 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: H1,S-Core Dream 7 ExtraBold,115,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,63,100,0,0,1,0,0,8,10,10,0,1
+Style: H2,S-Core Dream 7 ExtraBold,160,&H0000FFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,75,100,0,0,1,0,0,8,10,10,0,1
+Style: CAP,S-Core Dream 7 ExtraBold,85,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,6,0,6,10,10,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:34.71,H1,,0,0,0,,{\an8\pos(540,110)}지명 14일 만에 스스로 물러난 후보자
+Dialogue: 0,0:00:00.00,0:00:34.71,H2,,0,0,0,,{\an8\pos(540,198)}벌써 네 번째 낙마
+Dialogue: 1,0:00:00.00,0:00:03.13,CAP,,0,0,0,,{\an6\pos(992,801)}{\fs88}장관 후보자가 청문회도
+Dialogue: 1,0:00:01.25,0:00:03.13,CAP,,0,0,0,,{\an6\pos(992,926)}{\fs150}못 가고 지명
+Dialogue: 1,0:00:02.09,0:00:03.13,CAP,,0,0,0,,{\an6\pos(992,1065)}{\fs118}{\3c&H001E1EFF&\bord14\blur9\u1\i1}14일{\r\fs118} 만에 사퇴함
+Dialogue: 1,0:00:03.23,0:00:05.50,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs100}{\3c&H001E1EFF&\bord14\blur9\u1\i1}용혜인{\r\fs100} 성평등가족부
+Dialogue: 1,0:00:04.52,0:00:05.50,CAP,,0,0,0,,{\an6\pos(992,916)}{\fs150}장관 후보자
+Dialogue: 1,0:00:05.11,0:00:05.50,CAP,,0,0,0,,{\an6\pos(992,1071)}{\fs150}얘기인데
+Dialogue: 1,0:00:05.57,0:00:07.51,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs123}이재명 정부 들어
+Dialogue: 1,0:00:06.40,0:00:07.51,CAP,,0,0,0,,{\an6\pos(992,927)}{\fs150}벌써 네
+Dialogue: 1,0:00:06.84,0:00:07.51,CAP,,0,0,0,,{\an6\pos(992,1082)}{\fs150}번째 낙마임
+Dialogue: 1,0:00:07.62,0:00:09.25,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs150}앞의 셋은
+Dialogue: 1,0:00:08.21,0:00:09.25,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs150}{\3c&H001E1EFF&\bord14\blur9\u1\i1}청문회라도{\r\fs150}
+Dialogue: 1,0:00:08.70,0:00:09.25,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}거쳤는데
+Dialogue: 1,0:00:09.43,0:00:10.85,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs148}이번엔 청문회
+Dialogue: 1,0:00:10.02,0:00:10.85,CAP,,0,0,0,,{\an6\pos(992,939)}{\fs150}{\3c&H001E1EFF&\bord14\blur9\u1\i1}문턱도{\r\fs150} 못
+Dialogue: 1,0:00:10.64,0:00:10.85,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}밟음
+Dialogue: 1,0:00:10.89,0:00:12.31,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs150}비례대표
+Dialogue: 1,0:00:11.34,0:00:12.31,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs150}의원직
+Dialogue: 1,0:00:11.90,0:00:12.31,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}{\3c&H001E1EFF&\bord14\blur9\u1\i1}겸직이랑{\r\fs150}
+Dialogue: 1,0:00:12.43,0:00:14.54,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs112}기본소득당 {\3c&H0000D7FF&\bord14\blur9\u1\i1}사당화{\r\fs112}
+Dialogue: 1,0:00:13.60,0:00:14.54,CAP,,0,0,0,,{\an6\pos(992,922)}{\fs150}논란이 계속
+Dialogue: 1,0:00:14.12,0:00:14.54,CAP,,0,0,0,,{\an6\pos(992,1076)}{\fs150}붙었고
+Dialogue: 1,0:00:14.61,0:00:16.56,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs112}청와대는 {\3c&H0000D7FF&\bord14\blur9\u1\i1}파리에서{\r\fs112}
+Dialogue: 1,0:00:15.65,0:00:16.56,CAP,,0,0,0,,{\an6\pos(992,922)}{\fs150}청문회
+Dialogue: 1,0:00:16.00,0:00:16.56,CAP,,0,0,0,,{\an6\pos(992,1076)}{\fs150}거치라더니
+Dialogue: 1,0:00:16.77,0:00:18.50,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs150}{\3c&H00B469FF&\bord14\blur9\u1\i1}엿새{\r\fs150} 만에
+Dialogue: 1,0:00:17.14,0:00:18.50,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs148}후보자가 먼저
+Dialogue: 1,0:00:17.95,0:00:18.50,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}물러난 셈임
+Dialogue: 1,0:00:18.62,0:00:21.91,CAP,,0,0,0,,{\an6\pos(992,840)}{\fs141}추천 검증 지명
+Dialogue: 1,0:00:19.65,0:00:21.91,CAP,,0,0,0,,{\an6\pos(992,961)}{\fs88}나눠 맡는 {\3c&H001E1EFF&\bord14\blur9\u1\i1}인사위원회가{\r\fs88}
+Dialogue: 1,0:00:20.87,0:00:21.91,CAP,,0,0,0,,{\an6\pos(992,1061)}{\fs97}안 돌아갔다는 지적에
+Dialogue: 1,0:00:22.03,0:00:23.51,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs148}책임진 사람은
+Dialogue: 1,0:00:22.70,0:00:23.51,CAP,,0,0,0,,{\an6\pos(992,939)}{\fs150}아직 {\3c&H001E1EFF&\bord14\blur9\u1\i1}아무도{\r\fs150}
+Dialogue: 1,0:00:23.28,0:00:23.51,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}없음
+Dialogue: 1,0:00:23.62,0:00:26.43,CAP,,0,0,0,,{\an6\pos(992,791)}{\fs74}박지원도 비난이 대통령한테
+Dialogue: 1,0:00:25.15,0:00:26.43,CAP,,0,0,0,,{\an6\pos(992,905)}{\fs141}가면 {\3c&H0000D7FF&\bord14\blur9\u1\i1}인사 라인{\r\fs141}
+Dialogue: 1,0:00:25.88,0:00:26.43,CAP,,0,0,0,,{\an6\pos(992,1054)}{\fs148}책임이라 했음
+Dialogue: 1,0:00:26.54,0:00:28.66,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs141}근데 14일부터
+Dialogue: 1,0:00:27.72,0:00:28.66,CAP,,0,0,0,,{\an6\pos(992,936)}{\fs150}청문회가
+Dialogue: 1,0:00:28.21,0:00:28.66,CAP,,0,0,0,,{\an6\pos(992,1090)}{\fs150}{\3c&H001E1EFF&\bord14\blur9\u1\i1}줄줄이라{\r\fs150}
+Dialogue: 1,0:00:28.73,0:00:31.79,CAP,,0,0,0,,{\an6\pos(992,816)}{\fs108}전전세 의혹 대법관
+Dialogue: 1,0:00:30.12,0:00:31.79,CAP,,0,0,0,,{\an6\pos(992,930)}{\fs108}{\3c&H0000D7FF&\bord14\blur9\u1\i1}갭투자{\r\fs108} 의혹 부총리
+Dialogue: 1,0:00:31.05,0:00:31.79,CAP,,0,0,0,,{\an6\pos(992,1055)}{\fs128}후보까지 남았음
+Dialogue: 1,0:00:31.86,0:00:34.71,CAP,,0,0,0,,{\an6\pos(992,798)}{\fs94}근데 솔직히 검증을 안
+Dialogue: 1,0:00:33.18,0:00:34.71,CAP,,0,0,0,,{\an6\pos(992,926)}{\fs150}한 건지 못
+Dialogue: 1,0:00:33.74,0:00:34.71,CAP,,0,0,0,,{\an6\pos(992,1068)}{\fs123}한 건지 모르겠음
