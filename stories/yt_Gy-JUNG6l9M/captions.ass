@@ -1,0 +1,62 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: H1,S-Core Dream 7 ExtraBold,115,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,63,100,0,0,1,0,0,8,10,10,0,1
+Style: H2,S-Core Dream 7 ExtraBold,160,&H0000FFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,75,100,0,0,1,0,0,8,10,10,0,1
+Style: CAP,S-Core Dream 7 ExtraBold,85,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,6,0,6,10,10,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:35.06,H1,,0,0,0,,{\an8\pos(540,110)}퇴직금 안 주려고 11개월만 계약한 곳
+Dialogue: 0,0:00:00.00,0:00:35.06,H2,,0,0,0,,{\an8\pos(540,198)}알고 보니 정부기관
+Dialogue: 1,0:00:00.00,0:00:03.48,CAP,,0,0,0,,{\an6\pos(992,833)}{\fs123}퇴직금 안 주려고
+Dialogue: 1,0:00:00.83,0:00:03.48,CAP,,0,0,0,,{\an6\pos(992,938)}{\fs72}{\3c&H001E1EFF&\bord14\blur9\u1\i1}11개월만{\r\fs72} 계약하는 정부기관
+Dialogue: 1,0:00:02.54,0:00:03.48,CAP,,0,0,0,,{\an6\pos(992,1045)}{\fs128}대통령이 저격함
+Dialogue: 1,0:00:03.55,0:00:05.57,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs150}작년 12월
+Dialogue: 1,0:00:04.35,0:00:05.57,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs150}{\3c&H001E1EFF&\bord14\blur9\u1\i1}국무회의에서{\r\fs150}
+Dialogue: 1,0:00:04.97,0:00:05.57,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}물어봤는데
+Dialogue: 1,0:00:05.74,0:00:08.00,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs101}11개월 15일 일하면
+Dialogue: 1,0:00:07.10,0:00:08.00,CAP,,0,0,0,,{\an6\pos(992,917)}{\fs150}{\3c&H001E1EFF&\bord14\blur9\u1\i1}퇴직금{\r\fs150} 왜
+Dialogue: 1,0:00:07.58,0:00:08.00,CAP,,0,0,0,,{\an6\pos(992,1071)}{\fs150}안 주냐고
+Dialogue: 1,0:00:08.12,0:00:10.37,CAP,,0,0,0,,{\an6\pos(992,805)}{\fs148}정부가 퇴직금
+Dialogue: 1,0:00:08.83,0:00:10.37,CAP,,0,0,0,,{\an6\pos(992,959)}{\fs150}안 주려고
+Dialogue: 1,0:00:09.32,0:00:10.37,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs108}{\3c&H0000D7FF&\bord14\blur9\u1\i1}11개월씩{\r\fs108} 계약하고
+Dialogue: 1,0:00:10.46,0:00:12.52,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs141}정규직 될까 봐
+Dialogue: 1,0:00:11.27,0:00:12.52,CAP,,0,0,0,,{\an6\pos(992,936)}{\fs150}1년 11개월
+Dialogue: 1,0:00:12.03,0:00:12.52,CAP,,0,0,0,,{\an6\pos(992,1090)}{\fs150}만에 {\3c&H001E1EFF&\bord14\blur9\u1\i1}자르고{\r\fs150}
+Dialogue: 1,0:00:12.78,0:00:13.98,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs150}한 달
+Dialogue: 1,0:00:12.97,0:00:13.98,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs150}쉬었다 {\3c&H001E1EFF&\bord14\blur9\u1\i1}다시{\r\fs150}
+Dialogue: 1,0:00:13.63,0:00:13.98,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}뽑는 거임
+Dialogue: 1,0:00:14.09,0:00:16.21,CAP,,0,0,0,,{\an6\pos(992,797)}{\fs148}민간은 몰라도
+Dialogue: 1,0:00:14.91,0:00:16.21,CAP,,0,0,0,,{\an6\pos(992,950)}{\fs148}정부가 그러면
+Dialogue: 1,0:00:15.51,0:00:16.21,CAP,,0,0,0,,{\an6\pos(992,1093)}{\fs128}{\3c&H00B469FF&\bord14\blur9\u1\i1}부도덕하다{\r\fs128} 했음
+Dialogue: 1,0:00:16.30,0:00:18.57,CAP,,0,0,0,,{\an6\pos(992,804)}{\fs150}그래서 4월에
+Dialogue: 1,0:00:17.11,0:00:18.57,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs112}{\3c&H001E1EFF&\bord14\blur9\u1\i1}공정수당이라는{\r\fs112} 걸
+Dialogue: 1,0:00:17.95,0:00:18.57,CAP,,0,0,0,,{\an6\pos(992,1076)}{\fs150}만들었는데
+Dialogue: 1,0:00:18.71,0:00:20.80,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs150}퇴직금 대신
+Dialogue: 1,0:00:19.36,0:00:20.80,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs149}최대 {\3c&H001E1EFF&\bord14\blur9\u1\i1}248만원{\r\fs149}
+Dialogue: 1,0:00:20.45,0:00:20.80,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}주는 거임
+Dialogue: 1,0:00:20.87,0:00:22.89,CAP,,0,0,0,,{\an6\pos(992,804)}{\fs150}1년 미만
+Dialogue: 1,0:00:21.50,0:00:22.89,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs112}계약도 원칙적으로
+Dialogue: 1,0:00:22.43,0:00:22.89,CAP,,0,0,0,,{\an6\pos(992,1076)}{\fs150}{\3c&H001E1EFF&\bord14\blur9\u1\i1}금지했고{\r\fs150}
+Dialogue: 1,0:00:23.14,0:00:24.70,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs150}근데 6월에
+Dialogue: 1,0:00:23.81,0:00:24.70,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs150}{\3c&H001E1EFF&\bord14\blur9\u1\i1}감독{\r\fs150} 결과가
+Dialogue: 1,0:00:24.35,0:00:24.70,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}나왔음
+Dialogue: 1,0:00:24.80,0:00:27.76,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs85}지자체 30곳 조사했더니
+Dialogue: 1,0:00:26.16,0:00:27.76,CAP,,0,0,0,,{\an6\pos(992,909)}{\fs150}30곳 {\3c&H0000D7FF&\bord14\blur9\u1\i1}전부{\r\fs150}
+Dialogue: 1,0:00:27.34,0:00:27.76,CAP,,0,0,0,,{\an6\pos(992,1064)}{\fs150}쪼개기 계약
+Dialogue: 1,0:00:27.83,0:00:30.40,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs150}364일짜리
+Dialogue: 1,0:00:28.87,0:00:30.40,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs150}계약만
+Dialogue: 1,0:00:29.63,0:00:30.40,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}{\3c&H0000D7FF&\bord14\blur9\u1\i1}1833명임{\r\fs150}
+Dialogue: 1,0:00:30.47,0:00:33.25,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs150}28곳은 아예
+Dialogue: 1,0:00:31.48,0:00:33.25,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs150}노동법 위반
+Dialogue: 1,0:00:32.14,0:00:33.25,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}{\3c&H001E1EFF&\bord14\blur9\u1\i1}113건{\r\fs150} 걸림
+Dialogue: 1,0:00:33.32,0:00:35.06,CAP,,0,0,0,,{\an6\pos(992,790)}{\fs141}근데 솔직히 이
+Dialogue: 1,0:00:34.11,0:00:35.06,CAP,,0,0,0,,{\an6\pos(992,936)}{\fs141}정도면 {\3c&H001E1EFF&\bord14\blur9\u1\i1}답 없는{\r\fs141}
+Dialogue: 1,0:00:34.75,0:00:35.06,CAP,,0,0,0,,{\an6\pos(992,1086)}{\fs150}거 아님?
