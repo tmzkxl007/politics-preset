@@ -1,0 +1,62 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: H1,S-Core Dream 7 ExtraBold,115,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,63,100,0,0,1,0,0,8,10,10,0,1
+Style: H2,S-Core Dream 7 ExtraBold,160,&H0000FFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,75,100,0,0,1,0,0,8,10,10,0,1
+Style: CAP,S-Core Dream 7 ExtraBold,85,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,6,0,6,10,10,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:35.13,H1,,0,0,0,,{\an8\pos(540,110)}휴가 때마다 만나자는 군인에게 예은이가
+Dialogue: 0,0:00:00.00,0:00:35.13,H2,,0,0,0,,{\an8\pos(540,198)}8개월간 한 대답
+Dialogue: 1,0:00:00.00,0:00:03.20,CAP,,0,0,0,,{\an6\pos(992,822)}{\fs105}휴가 나온 군인이 네
+Dialogue: 1,0:00:00.97,0:00:03.20,CAP,,0,0,0,,{\an6\pos(992,934)}{\fs105}번 만나자 했는데 네
+Dialogue: 1,0:00:02.19,0:00:03.20,CAP,,0,0,0,,{\an6\pos(992,1052)}{\fs118}번 다 까인 카톡임
+Dialogue: 1,0:00:03.41,0:00:05.98,CAP,,0,0,0,,{\an6\pos(992,814)}{\fs118}2018년 8월에 몇
+Dialogue: 1,0:00:04.45,0:00:05.98,CAP,,0,0,0,,{\an6\pos(992,953)}{\fs150}년 만에
+Dialogue: 1,0:00:04.80,0:00:05.98,CAP,,0,0,0,,{\an6\pos(992,1079)}{\fs91}{\3c&H001E1EFF&\bord14\blur9\u1\i1}예은이한테{\r\fs91} 연락했는데
+Dialogue: 1,0:00:06.05,0:00:07.93,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs148}군대 갔냐길래
+Dialogue: 1,0:00:06.89,0:00:07.93,CAP,,0,0,0,,{\an6\pos(992,939)}{\fs148}지금 {\3c&H001E1EFF&\bord14\blur9\u1\i1}휴가라고{\r\fs148}
+Dialogue: 1,0:00:07.51,0:00:07.93,CAP,,0,0,0,,{\an6\pos(992,1093)}{\fs150}하니까
+Dialogue: 1,0:00:08.02,0:00:10.50,CAP,,0,0,0,,{\an6\pos(992,790)}{\fs97}얼굴 보면 좋겠다더니
+Dialogue: 1,0:00:09.22,0:00:10.50,CAP,,0,0,0,,{\an6\pos(992,915)}{\fs141}정작 시간은 안
+Dialogue: 1,0:00:10.02,0:00:10.50,CAP,,0,0,0,,{\an6\pos(992,1065)}{\fs150}된다는 거임
+Dialogue: 1,0:00:10.82,0:00:11.69,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs150}{\3c&H001E1EFF&\bord14\blur9\u1\i1}다음{\r\fs150} 휴가
+Dialogue: 1,0:00:11.13,0:00:11.69,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs150}때
+Dialogue: 1,0:00:11.27,0:00:11.69,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}연락하래
+Dialogue: 1,0:00:11.76,0:00:13.77,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs150}11월 휴가엔
+Dialogue: 1,0:00:12.52,0:00:13.77,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs148}동아리 {\3c&H001E1EFF&\bord14\blur9\u1\i1}강원도{\r\fs148}
+Dialogue: 1,0:00:13.26,0:00:13.77,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}여행이고
+Dialogue: 1,0:00:13.84,0:00:15.72,CAP,,0,0,0,,{\an6\pos(992,796)}{\fs150}1월 휴가엔
+Dialogue: 1,0:00:14.47,0:00:15.72,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs128}친구들이랑 {\3c&H001E1EFF&\bord14\blur9\u1\i1}일본{\r\fs128}
+Dialogue: 1,0:00:15.26,0:00:15.72,CAP,,0,0,0,,{\an6\pos(992,1084)}{\fs150}여행이라
+Dialogue: 1,0:00:15.83,0:00:18.16,CAP,,0,0,0,,{\an6\pos(992,810)}{\fs150}3월 초
+Dialogue: 1,0:00:16.24,0:00:18.16,CAP,,0,0,0,,{\an6\pos(992,941)}{\fs100}한가하다길래 휴가를
+Dialogue: 1,0:00:17.25,0:00:18.16,CAP,,0,0,0,,{\an6\pos(992,1071)}{\fs148}거기 {\3c&H0000D7FF&\bord14\blur9\u1\i1}맞췄는데{\r\fs148}
+Dialogue: 1,0:00:18.23,0:00:20.59,CAP,,0,0,0,,{\an6\pos(992,797)}{\fs148}이번엔 학생회
+Dialogue: 1,0:00:19.06,0:00:20.59,CAP,,0,0,0,,{\an6\pos(992,950)}{\fs148}개강 {\3c&H00B469FF&\bord14\blur9\u1\i1}회식이라{\r\fs148}
+Dialogue: 1,0:00:19.90,0:00:20.59,CAP,,0,0,0,,{\an6\pos(992,1093)}{\fs128}미안하다는 거임
+Dialogue: 1,0:00:20.85,0:00:22.96,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs112}저러다 {\3c&H001E1EFF&\bord14\blur9\u1\i1}결혼한다고{\r\fs112}
+Dialogue: 1,0:00:21.84,0:00:22.96,CAP,,0,0,0,,{\an6\pos(992,922)}{\fs150}톡 오겠다는
+Dialogue: 1,0:00:22.40,0:00:22.96,CAP,,0,0,0,,{\an6\pos(992,1076)}{\fs150}댓글도 있음
+Dialogue: 1,0:00:23.03,0:00:24.63,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs150}8개월 동안
+Dialogue: 1,0:00:23.62,0:00:24.63,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs150}{\3c&H001E1EFF&\bord14\blur9\u1\i1}네 번{\r\fs150}
+Dialogue: 1,0:00:23.93,0:00:24.63,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}물어봤는데
+Dialogue: 1,0:00:24.73,0:00:26.09,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs150}{\3c&H001E1EFF&\bord14\blur9\u1\i1}매번{\r\fs150} 여행
+Dialogue: 1,0:00:25.32,0:00:26.09,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs150}아니면
+Dialogue: 1,0:00:25.70,0:00:26.09,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}회식임
+Dialogue: 1,0:00:26.18,0:00:29.70,CAP,,0,0,0,,{\an6\pos(992,824)}{\fs108}댓글은 예은이 {\3c&H0000D7FF&\bord14\blur9\u1\i1}회피{\r\fs108}
+Dialogue: 1,0:00:27.41,0:00:29.70,CAP,,0,0,0,,{\an6\pos(992,933)}{\fs97}스킬 지린다랑 남자가
+Dialogue: 1,0:00:28.77,0:00:29.70,CAP,,0,0,0,,{\an6\pos(992,1049)}{\fs123}눈치 없다로 갈림
+Dialogue: 1,0:00:29.80,0:00:32.42,CAP,,0,0,0,,{\an6\pos(992,804)}{\fs88}제목이 차라리 {\3c&H001E1EFF&\bord14\blur9\u1\i1}꺼지라고{\r\fs88}
+Dialogue: 1,0:00:31.03,0:00:32.42,CAP,,0,0,0,,{\an6\pos(992,929)}{\fs150}해라 너무
+Dialogue: 1,0:00:31.58,0:00:32.42,CAP,,0,0,0,,{\an6\pos(992,1065)}{\fs112}잔인하다인 이유임
+Dialogue: 1,0:00:32.52,0:00:35.13,CAP,,0,0,0,,{\an6\pos(992,787)}{\fs141}근데 솔직히 세
+Dialogue: 1,0:00:33.44,0:00:35.13,CAP,,0,0,0,,{\an6\pos(992,937)}{\fs148}번째 미안에서
+Dialogue: 1,0:00:34.33,0:00:35.13,CAP,,0,0,0,,{\an6\pos(992,1089)}{\fs148}{\3c&H001E1EFF&\bord14\blur9\u1\i1}눈치챘어야{\r\fs148} 함

@@ -25,7 +25,7 @@ FONTS_DIR = os.path.join(BASE, "assets", "fonts")
 MASK_PATH = os.path.join(BASE, "assets", "box_mask.png")
 
 # ============================== CUSTOMIZE ==============================
-IMG_DIR = os.path.join(BASE, "stories", "cafe_dmain_47465961", "img")     # files named 01.png, 02.png, ...
+IMG_DIR = os.path.join(BASE, "stories", "cafe_dmain_47465221", "img")     # files named 01.png, 02.png, ...
 PEPE_DIR = "C:/Users/최진영/volcano-work/군림보/fm_10323813802/pepe"              # only needed if MEME_OVERRIDE is non-empty
 
 # segment id -> meme image path, when the meme comes from a SEPARATE library (e.g. a pepe
@@ -37,7 +37,7 @@ MEME_OVERRIDE = {}
 # segment). Confirmed 2026-09-14 the user expects this on every video -- a batch of
 # 4 videos built without it drew "핵심 포인트가 나올때는 이미지 덜덜덜 흔들라고 했잖아."
 # Use sparingly (one beat per video); don't apply it to more than one segment.
-SHAKE_SEGMENTS = {"s06"}
+SHAKE_SEGMENTS = {"s07"}
 # =========================================================================
 
 BOX_X, BOX_Y, BOX_W, BOX_H = 38, 369, 1004, 1143

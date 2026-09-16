@@ -29,7 +29,7 @@ ATEMPO = 1.15  # must match the atempo value used in the step-1 ffmpeg command
 # segment id -> which numbered screenshot (NN.png in your image folder) plays during it
 IMG = {
     "card": 1, "s01": 2, "s02": 3, "s03": 4, "ad1": 5, "s04": 6, "s05": 7, "s06": 8,
-    "s07": 9, "s08": 10, "ad2": 11, "s09": 12, "s10": 13, "s11": 14, "s14": 15,
+    "s07": 9, "ad2": 10, "s08": 11, "s09": 12, "s10": 13, "s11": 14, "s14": 15,
 }
 # =========================================================================
 
