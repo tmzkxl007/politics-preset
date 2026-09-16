@@ -1,0 +1,62 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: H1,S-Core Dream 7 ExtraBold,115,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,63,100,0,0,1,0,0,8,10,10,0,1
+Style: H2,S-Core Dream 7 ExtraBold,160,&H0000FFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,75,100,0,0,1,0,0,8,10,10,0,1
+Style: CAP,S-Core Dream 7 ExtraBold,85,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,6,0,6,10,10,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:33.53,H1,,0,0,0,,{\an8\pos(540,110)}찬성해 놓고 필리버스터 건다는 국힘
+Dialogue: 0,0:00:00.00,0:00:33.53,H2,,0,0,0,,{\an8\pos(540,198)}여당 원내대표 답답
+Dialogue: 1,0:00:00.00,0:00:03.13,CAP,,0,0,0,,{\an6\pos(992,804)}{\fs80}찬성한 법안도 {\3c&H001E1EFF&\bord14\blur9\u1\i1}필리버스터{\r\fs80}
+Dialogue: 1,0:00:01.39,0:00:03.13,CAP,,0,0,0,,{\an6\pos(992,925)}{\fs150}건다고 여당
+Dialogue: 1,0:00:02.02,0:00:03.13,CAP,,0,0,0,,{\an6\pos(992,1061)}{\fs112}원내대표가 저격함
+Dialogue: 1,0:00:03.20,0:00:05.29,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs112}{\3c&H001E1EFF&\bord14\blur9\u1\i1}한병도{\r\fs112} 원내대표가
+Dialogue: 1,0:00:04.10,0:00:05.29,CAP,,0,0,0,,{\an6\pos(992,922)}{\fs148}당 유튜브에서
+Dialogue: 1,0:00:04.70,0:00:05.29,CAP,,0,0,0,,{\an6\pos(992,1076)}{\fs150}한 얘기인데
+Dialogue: 1,0:00:05.36,0:00:08.14,CAP,,0,0,0,,{\an6\pos(992,809)}{\fs128}이번 정기국회가
+Dialogue: 1,0:00:06.19,0:00:08.14,CAP,,0,0,0,,{\an6\pos(992,953)}{\fs150}이재명 정부
+Dialogue: 1,0:00:06.89,0:00:08.14,CAP,,0,0,0,,{\an6\pos(992,1084)}{\fs100}성과의 {\3c&H0000D7FF&\bord14\blur9\u1\i1}골든타임인데{\r\fs100}
+Dialogue: 1,0:00:08.21,0:00:09.25,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs150}국힘이 다
+Dialogue: 1,0:00:08.56,0:00:09.25,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs150}{\3c&H0000D7FF&\bord14\blur9\u1\i1}막는다는{\r\fs150}
+Dialogue: 1,0:00:08.97,0:00:09.25,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}거임
+Dialogue: 1,0:00:09.38,0:00:11.20,CAP,,0,0,0,,{\an6\pos(992,796)}{\fs128}{\3c&H001E1EFF&\bord14\blur9\u1\i1}찬성한{\r\fs128} 법안에도
+Dialogue: 1,0:00:10.26,0:00:11.20,CAP,,0,0,0,,{\an6\pos(992,930)}{\fs128}필리버스터 거는
+Dialogue: 1,0:00:10.96,0:00:11.20,CAP,,0,0,0,,{\an6\pos(992,1074)}{\fs150}수준
+Dialogue: 1,0:00:11.27,0:00:13.70,CAP,,0,0,0,,{\an6\pos(992,821)}{\fs150}7월 말엔
+Dialogue: 1,0:00:11.90,0:00:13.70,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs76}형사소송법에도 {\3c&H001E1EFF&\bord14\blur9\u1\i1}무제한토론{\r\fs76}
+Dialogue: 1,0:00:13.29,0:00:13.70,CAP,,0,0,0,,{\an6\pos(992,1059)}{\fs150}붙었고
+Dialogue: 1,0:00:13.77,0:00:16.00,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs148}국정과제 입법
+Dialogue: 1,0:00:14.47,0:00:16.00,CAP,,0,0,0,,{\an6\pos(992,939)}{\fs148}이행률은 아직
+Dialogue: 1,0:00:15.23,0:00:16.00,CAP,,0,0,0,,{\an6\pos(992,1093)}{\fs150}{\3c&H00B469FF&\bord14\blur9\u1\i1}30%대임{\r\fs150}
+Dialogue: 1,0:00:16.07,0:00:18.57,CAP,,0,0,0,,{\an6\pos(992,818)}{\fs128}그래서 민주당은
+Dialogue: 1,0:00:16.83,0:00:18.57,CAP,,0,0,0,,{\an6\pos(992,930)}{\fs82}{\3c&H001E1EFF&\bord14\blur9\u1\i1}패스트트랙까지{\r\fs82} 쓰겠다고
+Dialogue: 1,0:00:17.98,0:00:18.57,CAP,,0,0,0,,{\an6\pos(992,1052)}{\fs150}예고했고
+Dialogue: 1,0:00:18.64,0:00:21.25,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs149}국힘은 820조
+Dialogue: 1,0:00:19.69,0:00:21.25,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs150}예산이 {\3c&H001E1EFF&\bord14\blur9\u1\i1}재정{\r\fs150}
+Dialogue: 1,0:00:20.38,0:00:21.25,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs148}폭주라고 맞섬
+Dialogue: 1,0:00:21.31,0:00:23.72,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs105}국가채무 {\3c&H001E1EFF&\bord14\blur9\u1\i1}1500조에{\r\fs105}
+Dialogue: 1,0:00:22.40,0:00:23.72,CAP,,0,0,0,,{\an6\pos(992,919)}{\fs150}이자만
+Dialogue: 1,0:00:22.96,0:00:23.72,CAP,,0,0,0,,{\an6\pos(992,1073)}{\fs150}35조라면서
+Dialogue: 1,0:00:23.84,0:00:25.81,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs148}한병도는 다른
+Dialogue: 1,0:00:24.63,0:00:25.81,CAP,,0,0,0,,{\an6\pos(992,939)}{\fs150}야당 {\3c&H001E1EFF&\bord14\blur9\u1\i1}협치도{\r\fs150}
+Dialogue: 1,0:00:25.22,0:00:25.81,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}어렵다고 함
+Dialogue: 1,0:00:25.88,0:00:27.69,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs128}{\3c&H001E1EFF&\bord14\blur9\u1\i1}용산공원{\r\fs128} 특별법
+Dialogue: 1,0:00:26.81,0:00:27.69,CAP,,0,0,0,,{\an6\pos(992,930)}{\fs150}같은 쟁점
+Dialogue: 1,0:00:27.34,0:00:27.69,CAP,,0,0,0,,{\an6\pos(992,1084)}{\fs150}법안엔
+Dialogue: 1,0:00:27.79,0:00:29.50,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs128}또 {\3c&H0000D7FF&\bord14\blur9\u1\i1}필리버스터가{\r\fs128}
+Dialogue: 1,0:00:28.52,0:00:29.50,CAP,,0,0,0,,{\an6\pos(992,930)}{\fs150}예상되는
+Dialogue: 1,0:00:29.01,0:00:29.50,CAP,,0,0,0,,{\an6\pos(992,1084)}{\fs150}상황이라
+Dialogue: 1,0:00:29.57,0:00:31.72,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs118}예산안 시한 12월
+Dialogue: 1,0:00:30.54,0:00:31.72,CAP,,0,0,0,,{\an6\pos(992,925)}{\fs150}2일까지 갈
+Dialogue: 1,0:00:31.37,0:00:31.72,CAP,,0,0,0,,{\an6\pos(992,1079)}{\fs150}길이 멈
+Dialogue: 1,0:00:31.76,0:00:33.53,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs109}근데 솔직히 {\3c&H001E1EFF&\bord14\blur9\u1\i1}100일{\r\fs109}
+Dialogue: 1,0:00:32.66,0:00:33.53,CAP,,0,0,0,,{\an6\pos(992,921)}{\fs150}내내 이럴
+Dialogue: 1,0:00:33.11,0:00:33.53,CAP,,0,0,0,,{\an6\pos(992,1075)}{\fs150}것 같음

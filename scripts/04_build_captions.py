@@ -28,8 +28,8 @@ LINE_GAP = 12
 BLOCK_CENTER_Y = 940                                # 3-line block is vertically centered here
 
 # ============================== CUSTOMIZE ==============================
-TITLE_LINE1 = "퇴직금 안 주려고 11개월만 계약한 곳"   # white line, pos(540,110)
-TITLE_LINE2 = "알고 보니 정부기관"                  # yellow line, pos(540,198)
+TITLE_LINE1 = "찬성해 놓고 필리버스터 건다는 국힘"   # white line, pos(540,110)
+TITLE_LINE2 = "여당 원내대표 답답"                  # yellow line, pos(540,198)
 
 # Exactly ONE glowing line per segment: seg_id -> keyword to glow. Whichever of the
 # segment's (at most 3) chunk-lines actually contains this word gets the glow -- no
@@ -37,21 +37,21 @@ TITLE_LINE2 = "알고 보니 정부기관"                  # yellow line, pos(5
 # important word per segment (number / emotion / twist word) -- do NOT glow more than
 # one line per segment, that was explicitly rejected in review.
 KEYWORDS = {
-    "card": "11개월만",
-    "s01":  "국무회의에서",
-    "s02":  "퇴직금",
-    "s03":  "11개월씩",
-    "s04":  "자르고",
-    "ad1":  "다시",
-    "s05":  "부도덕하다",
-    "s06":  "공정수당이라는",
-    "s07":  "248만원",
-    "s08":  "금지했고",
-    "ad2":  "감독",
-    "s09":  "전부",
-    "s10":  "1833명임",
-    "s11":  "113건",
-    "s14":  "답 없는",
+    "card": "필리버스터",
+    "s01":  "한병도",
+    "s02":  "골든타임인데",
+    "s03":  "막는다는",
+    "ad1":  "찬성한",
+    "s04":  "무제한토론",
+    "s05":  "30%대임",
+    "s06":  "패스트트랙까지",
+    "s07":  "재정",
+    "s08":  "1500조에",
+    "ad2":  "협치도",
+    "s09":  "용산공원",
+    "s10":  "필리버스터가",
+    "s11":  "갈 길이",
+    "s14":  "100일",
 }
 # =========================================================================
 

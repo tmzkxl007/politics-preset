@@ -25,7 +25,7 @@ FONTS_DIR = os.path.join(BASE, "assets", "fonts")
 MASK_PATH = os.path.join(BASE, "assets", "box_mask.png")
 
 # ============================== CUSTOMIZE ==============================
-IMG_DIR = os.path.join(BASE, "stories", "yt_Gy-JUNG6l9M", "img")     # files named 01.png, 02.png, ...
+IMG_DIR = os.path.join(BASE, "stories", "yt_jHNN6xraMGI", "img")     # files named 01.png, 02.png, ...
 PEPE_DIR = "C:/Users/최진영/volcano-work/군림보/fm_10323813802/pepe"              # only needed if MEME_OVERRIDE is non-empty
 
 # segment id -> meme image path, when the meme comes from a SEPARATE library (e.g. a pepe
