@@ -1,0 +1,62 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: H1,S-Core Dream 7 ExtraBold,115,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,63,100,0,0,1,0,0,8,10,10,0,1
+Style: H2,S-Core Dream 7 ExtraBold,160,&H0000FFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,75,100,0,0,1,0,0,8,10,10,0,1
+Style: CAP,S-Core Dream 7 ExtraBold,85,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,6,0,6,10,10,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:34.02,H1,,0,0,0,,{\an8\pos(540,110)}20년 계단만 탄 1층 주민이 거부한 것
+Dialogue: 0,0:00:00.00,0:00:34.02,H2,,0,0,0,,{\an8\pos(540,198)}엘리베이터 교체비 200만원
+Dialogue: 1,0:00:00.00,0:00:02.71,CAP,,0,0,0,,{\an6\pos(992,806)}{\fs91}1층 주민이 엘리베이터
+Dialogue: 1,0:00:01.08,0:00:02.71,CAP,,0,0,0,,{\an6\pos(992,913)}{\fs109}교체비 {\3c&H001E1EFF&\bord14\blur9\u1\i1}200만원{\r\fs109} 못
+Dialogue: 1,0:00:01.95,0:00:02.71,CAP,,0,0,0,,{\an6\pos(992,1047)}{\fs148}내겠다고 버팀
+Dialogue: 1,0:00:02.85,0:00:04.73,CAP,,0,0,0,,{\an6\pos(992,790)}{\fs150}{\3c&H001E1EFF&\bord14\blur9\u1\i1}20년{\r\fs150} 동안 한
+Dialogue: 1,0:00:03.48,0:00:04.73,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs141}번도 안 탔다는
+Dialogue: 1,0:00:04.07,0:00:04.73,CAP,,0,0,0,,{\an6\pos(992,1090)}{\fs150}게 이유인데
+Dialogue: 1,0:00:04.80,0:00:07.10,CAP,,0,0,0,,{\an6\pos(992,814)}{\fs148}고층 주민들은
+Dialogue: 1,0:00:05.50,0:00:07.10,CAP,,0,0,0,,{\an6\pos(992,939)}{\fs91}공용시설이니까 {\3c&H0000D7FF&\bord14\blur9\u1\i1}똑같이{\r\fs91}
+Dialogue: 1,0:00:06.61,0:00:07.10,CAP,,0,0,0,,{\an6\pos(992,1066)}{\fs150}내라는 거고
+Dialogue: 1,0:00:07.17,0:00:09.18,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs129}1층은 평생 걸어
+Dialogue: 1,0:00:08.14,0:00:09.18,CAP,,0,0,0,,{\an6\pos(992,930)}{\fs150}다닌 내가 왜
+Dialogue: 1,0:00:08.73,0:00:09.18,CAP,,0,0,0,,{\an6\pos(992,1085)}{\fs150}내냐는 거임
+Dialogue: 1,0:00:09.60,0:00:11.41,CAP,,0,0,0,,{\an6\pos(992,797)}{\fs150}안 내면
+Dialogue: 1,0:00:10.02,0:00:11.41,CAP,,0,0,0,,{\an6\pos(992,941)}{\fs128}{\3c&H001E1EFF&\bord14\blur9\u1\i1}주차장도{\r\fs128} 막자는
+Dialogue: 1,0:00:10.75,0:00:11.41,CAP,,0,0,0,,{\an6\pos(992,1084)}{\fs148}얘기까지 나옴
+Dialogue: 1,0:00:11.44,0:00:13.91,CAP,,0,0,0,,{\an6\pos(992,810)}{\fs128}근데 법적으로는
+Dialogue: 1,0:00:12.24,0:00:13.91,CAP,,0,0,0,,{\an6\pos(992,930)}{\fs100}엘리베이터가 아파트
+Dialogue: 1,0:00:13.15,0:00:13.91,CAP,,0,0,0,,{\an6\pos(992,1060)}{\fs148}{\3c&H001E1EFF&\bord14\blur9\u1\i1}주요{\r\fs148} 시설이라
+Dialogue: 1,0:00:14.02,0:00:16.70,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs76}{\3c&H001E1EFF&\bord14\blur9\u1\i1}장기수선충당금으로{\r\fs76} 소유자
+Dialogue: 1,0:00:15.65,0:00:16.70,CAP,,0,0,0,,{\an6\pos(992,905)}{\fs150}전원이 내는
+Dialogue: 1,0:00:16.21,0:00:16.70,CAP,,0,0,0,,{\an6\pos(992,1059)}{\fs150}게 원칙임
+Dialogue: 1,0:00:16.77,0:00:19.48,CAP,,0,0,0,,{\an6\pos(992,805)}{\fs91}수원지법도 1층이 {\3c&H00B469FF&\bord14\blur9\u1\i1}집값{\r\fs91}
+Dialogue: 1,0:00:18.05,0:00:19.48,CAP,,0,0,0,,{\an6\pos(992,912)}{\fs108}오르는 이익 보니까
+Dialogue: 1,0:00:18.89,0:00:19.48,CAP,,0,0,0,,{\an6\pos(992,1047)}{\fs150}내라고 했음
+Dialogue: 1,0:00:19.58,0:00:21.50,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs112}근데 {\3c&H001E1EFF&\bord14\blur9\u1\i1}지하주차장도{\r\fs112}
+Dialogue: 1,0:00:20.57,0:00:21.50,CAP,,0,0,0,,{\an6\pos(992,922)}{\fs150}없는 구축
+Dialogue: 1,0:00:20.97,0:00:21.50,CAP,,0,0,0,,{\an6\pos(992,1076)}{\fs150}아파트에선
+Dialogue: 1,0:00:21.57,0:00:23.44,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs135}1층 2층이 소송
+Dialogue: 1,0:00:22.43,0:00:23.44,CAP,,0,0,0,,{\an6\pos(992,933)}{\fs150}걸어서 {\3c&H001E1EFF&\bord14\blur9\u1\i1}이긴{\r\fs150}
+Dialogue: 1,0:00:23.03,0:00:23.44,CAP,,0,0,0,,{\an6\pos(992,1087)}{\fs150}적도 있음
+Dialogue: 1,0:00:23.83,0:00:25.88,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs148}결국 주차장이
+Dialogue: 1,0:00:24.59,0:00:25.88,CAP,,0,0,0,,{\an6\pos(992,939)}{\fs150}{\3c&H001E1EFF&\bord14\blur9\u1\i1}지하에{\r\fs150} 있냐
+Dialogue: 1,0:00:25.29,0:00:25.88,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}없냐 싸움임
+Dialogue: 1,0:00:25.97,0:00:27.90,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs108}그리고 세입자는 안
+Dialogue: 1,0:00:26.85,0:00:27.90,CAP,,0,0,0,,{\an6\pos(992,920)}{\fs148}내고 {\3c&H001E1EFF&\bord14\blur9\u1\i1}집주인이{\r\fs148}
+Dialogue: 1,0:00:27.51,0:00:27.90,CAP,,0,0,0,,{\an6\pos(992,1074)}{\fs150}내는 거라
+Dialogue: 1,0:00:28.03,0:00:29.63,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs150}1층 세입자면
+Dialogue: 1,0:00:28.87,0:00:29.63,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs150}애초에 남
+Dialogue: 1,0:00:29.43,0:00:29.63,CAP,,0,0,0,,{\an6\pos(992,1094)}{\fs150}일임
+Dialogue: 1,0:00:29.73,0:00:31.72,CAP,,0,0,0,,{\an6\pos(992,786)}{\fs97}다른 커뮤니티 댓글은
+Dialogue: 1,0:00:30.71,0:00:31.72,CAP,,0,0,0,,{\an6\pos(992,916)}{\fs150}{\3c&H0000D7FF&\bord14\blur9\u1\i1}안 내도{\r\fs150}
+Dialogue: 1,0:00:31.10,0:00:31.72,CAP,,0,0,0,,{\an6\pos(992,1069)}{\fs148}된다는 쪽인데
+Dialogue: 1,0:00:31.83,0:00:34.02,CAP,,0,0,0,,{\an6\pos(992,790)}{\fs150}근데 솔직히
+Dialogue: 1,0:00:32.59,0:00:34.02,CAP,,0,0,0,,{\an6\pos(992,940)}{\fs141}20년 계단이면
+Dialogue: 1,0:00:33.60,0:00:34.02,CAP,,0,0,0,,{\an6\pos(992,1090)}{\fs150}{\3c&H001E1EFF&\bord14\blur9\u1\i1}억울하긴{\r\fs150} 함
